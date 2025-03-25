@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 🎓 Telecommunications & Informatics Engineering Master´s Student (Final Year)
-💡 Always eager to learn and explore new technologies
+- 💡 Always eager to learn and explore new technologies
 
 🚀 About Me
 - 🔐 Interested in cryptography, cybersecurity, and networking
