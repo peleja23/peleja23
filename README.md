@@ -9,7 +9,8 @@
 - 🌱 I’m currently learning more about Python, C, PyQT5, Docker, Cryptography, Networks and Cybersecurity
 
 📫 Connect with Me
-- 💼 https://www.linkedin.com/in/josé-pedro-peleja/
+- 💼 https://www.linkedin.com/in/josé-pedro-peleja-577498255/
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/josé-pedro-peleja-577498255/)
 - 📧 Email: Placeholder@*****.com
 <!--
 **peleja23/peleja23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
