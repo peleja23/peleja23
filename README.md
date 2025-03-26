@@ -2,12 +2,12 @@
 
 🎓 Telecommunications & Informatics Engineering Master´s Student (Final Year)
 
-🚀 About Me
+About Me:
 - 🔐 Interested in cryptography, cybersecurity, and networking
 - 🔭 I’m currently working on my Dissertation on Software Defined Vehicular Networks
 - 🌱 I’m currently learning more about Python, C, PyQT5, Docker, Cryptography, Networks and Cybersecurity
 
-📫 Connect with Me
+Connect with Me
 - 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/josé-pedro-peleja-577498255/)
 - 📧 Email: Placeholder@*****.com
 <!--
