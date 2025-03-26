@@ -4,7 +4,7 @@
 
 🚀 About Me
 - 🔐 Interested in cryptography, cybersecurity, and networking
-- 🔭 I’m currently working on my Dissertation on Software Vehicular Defined Networks
+- 🔭 I’m currently working on my Dissertation on Software Defined Vehicular Networks
 - 🌱 I’m currently learning more about Python, C, PyQT5, Docker, Cryptography, Networks and Cybersecurity
 
 📫 Connect with Me
